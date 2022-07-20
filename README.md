@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/7889219/180059048-17aee9f3-d643-4d5d-9f1d-a945edd93394.png)
+
+SIMPLE MEMORY GAME with useEffect & useState 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
